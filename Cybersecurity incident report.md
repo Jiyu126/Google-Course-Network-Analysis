@@ -1,3 +1,4 @@
+# Scenario 2
 # Cybersecurity Incident Report
 
 | Section 1: Identify the type of attack that may have caused this  network interruption |  |
